@@ -4,7 +4,7 @@ I'm *<b>Abhishek</b>*, a QA/Automation engineer and I love to automate the munda
 
 - 👷 I have worked with multiple frameworks, tools and programming languages for testing/automation projects.
 - 👯 I’m looking to collaborate on any exciting automation projects either frontend/backend.
-- 🌱 I’m looking to learn new things related to automation and testing, a framework, a tool anything that makes testing easier and better.
+- 🌱 I’m looking to learn new things related to automation and testing, that makes testing easier to execute and repeat.
 - 📫 You can reach me on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-9289a965/) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allsubads@gmail.com)](mailto:allsubads@gmail.com)
 
 ## Technologies:
